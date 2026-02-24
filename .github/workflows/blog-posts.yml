@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
   schedule:
     - cron: '0 * * * *' # S'exécute automatiquement toutes les heures
-  workflow_dispatch: # Te permet de le lancer manuellement pour tester
+  workflow_dispatch: # Permet de le lancer manuellement
 
 jobs:
   update-readme-with-blog:
@@ -14,4 +14,3 @@ jobs:
         with:
           feed_list: "https://www.novia-lab.com/feed.xml"
           max_post_count: 5
-          template: "$newline - [$title]($url)"

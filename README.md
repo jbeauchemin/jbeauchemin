@@ -37,6 +37,11 @@ Expert en développement de logiciels sur mesure et solutions numériques haute 
 ## 📝 Derniers articles du Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build an MVP for Your Quebec Startup — The Complete Guide to Incubators &amp; Accelerators](https://www.novia-lab.com/en/blog/mvp-startup-quebec-incubateurs-accelerateurs)
+- [Comment construire un MVP pour votre startup québécoise — Le guide complet des incubateurs et accélérateurs](https://www.novia-lab.com/fr/blog/mvp-startup-quebec-incubateurs-accelerateurs)
+- [Why Quebec Electrical Contractors Need Purpose-Built Software](https://www.novia-lab.com/en/blog/logiciel-entrepreneurs-electriciens-quebec)
+- [Pourquoi les entrepreneurs électriciens au Québec ont besoin d&#39;un logiciel sur mesure](https://www.novia-lab.com/fr/blog/logiciel-entrepreneurs-electriciens-quebec)
+- [Why Generic Construction Software Is No Longer Enough for HVAC Contractors in Quebec](https://www.novia-lab.com/en/blog/logiciel-ventilation-cvc-entrepreneurs-quebec)
 <!-- BLOG-POST-LIST:END -->
 
 ---

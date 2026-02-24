@@ -44,11 +44,3 @@ Expert en développement de logiciels sur mesure et solutions numériques haute 
 - [Why Generic Construction Software Is No Longer Enough for HVAC Contractors in Quebec](https://www.novia-lab.com/en/blog/logiciel-ventilation-cvc-entrepreneurs-quebec)
 <!-- BLOG-POST-LIST:END -->
 
----
-
-## 📬 Me contacter
-
-Vous avez un projet complexe ? **[Prenons un café (virtuel) ☕](https://www.novia-lab.com/en/contact)**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jbeauchemin/)
-[![Novia-Lab](https://img.shields.io/badge/Novia--Lab-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.novia-lab.com/en)

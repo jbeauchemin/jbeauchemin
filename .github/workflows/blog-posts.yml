@@ -1,0 +1,17 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: '0 * * * *' # S'exécute automatiquement toutes les heures
+  workflow_dispatch: # Te permet de le lancer manuellement pour tester
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://www.novia-lab.com/feed.xml"
+          max_post_count: 5
+          template: "$newline - [$title]($url)"

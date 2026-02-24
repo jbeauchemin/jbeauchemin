@@ -5,10 +5,7 @@ Expert en développement de logiciels sur mesure et solutions numériques haute 
 ---
 
 ## 🏢 À propos de Novia-Lab
-[Novia-Lab](https://www.novia-lab.com/en) est une agence boutique spécialisée dans la création de produits numériques scalables :
-* **Développement de MVP** pour startups (Next.js, React Native).
-* **Logiciels sur mesure** pour industries spécialisées (CVC, Construction, PME).
-* **Modernisation de systèmes hérités** et intégrations API complexes.
+[Novia-Lab](https://www.novia-lab.com/en) est une agence boutique spécialisée dans la création de produits numériques scalables.
 
 📍 **Localisation** : Montréal, QC, Canada
 🌐 **Site Web** : [novia-lab.com](https://www.novia-lab.com/en)

@@ -37,10 +37,10 @@ Expert en développement de logiciels sur mesure et solutions numériques haute 
 ## 📝 Derniers articles du Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [How Much Does Custom Software Development Cost in Canada? &lpar;2026 Guide&rpar;](https://www.novia-lab.com/en/blog/software-development-cost-canada-2026)
-- [Combien coûte le développement logiciel sur mesure au Canada ? &lpar;Guide 2026&rpar;](https://www.novia-lab.com/fr/blog/software-development-cost-canada-2026)
-- [Software Agency vs Freelance Developer in Montreal: How to Choose in 2026](https://www.novia-lab.com/en/blog/agency-vs-freelance-developer-montreal-2026)
-- [Agence logicielle vs développeur freelance à Montréal : Comment choisir en 2026](https://www.novia-lab.com/fr/blog/agency-vs-freelance-developer-montreal-2026)
-- [Bubble vs Custom Code: When No-Code Tools Hit Their Limits](https://www.novia-lab.com/en/blog/bubble-vs-custom-code-no-code-limits)
+- [How to Build an MVP for Your Quebec Startup — The Complete Guide to Incubators &amp; Accelerators](https://www.novia-lab.com/en/blog/mvp-startup-quebec-incubateurs-accelerateurs)
+- [Comment construire un MVP pour votre startup québécoise — Le guide complet des incubateurs et accélérateurs](https://www.novia-lab.com/fr/blog/mvp-startup-quebec-incubateurs-accelerateurs)
+- [Why Quebec Electrical Contractors Need Purpose-Built Software](https://www.novia-lab.com/en/blog/logiciel-entrepreneurs-electriciens-quebec)
+- [Pourquoi les entrepreneurs électriciens au Québec ont besoin d&#39;un logiciel sur mesure](https://www.novia-lab.com/fr/blog/logiciel-entrepreneurs-electriciens-quebec)
+- [Why Generic Construction Software Is No Longer Enough for HVAC Contractors in Quebec](https://www.novia-lab.com/en/blog/logiciel-ventilation-cvc-entrepreneurs-quebec)
 <!-- BLOG-POST-LIST:END -->
 
